@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sazzle2
+- 👋 Hi, I’m Alex Zheng
 - 🌱 I’m currently learning how to make a tic-tac-toe AI
 - 📫 How to reach me azheng@umass.edu
 
