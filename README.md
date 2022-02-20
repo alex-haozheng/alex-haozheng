@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex Zheng
-- 🌱 I’m currently learning how to make a tic-tac-toe AI
+- 🌱 I’m currently learning optimization strategies
 - 📫 How to reach me azheng@umass.edu
 
 <!---
