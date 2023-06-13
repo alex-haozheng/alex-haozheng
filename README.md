@@ -21,8 +21,6 @@
 Alex Zheng is a dedicated computer science professional currently pursuing a master's degree in Computer Science at UMass Amherst. With a strong foundation in computer science acquired during their undergraduate studies at UMass, they have developed a passion for exploring advanced concepts and pushing the boundaries of technological innovation.
 <br/><br/>
 Alex received his B.S. in computer science from the <a href="https://www.cics.umass.edu/" target="_blank">Manning College of Information & Computer Science</a> and his minor in mathematics from the <a href="https://www.umass.edu/mathematics-statistics/" target="_blank">Department of Mathematics and Statistics</a> at <a href="https://www.umass.edu/" target="_blank">University of Massachusetts Amherst</a>. This rigorous program equipped them with a comprehensive understanding of fundamental computer science principles, programming languages, algorithms, and data structures. Their time at UMass not only fostered technical expertise but also honed their analytical thinking, problem-solving skills, and ability to work effectively both independently and as part of a team.
-<br/><br/>
-While Alex Zheng possesses a broad understanding of computer science, their specific areas of interest lie in artificial intelligence, machine learning, and data science. They are fascinated by the potential of these fields to revolutionize industries, solve complex problems, and make a positive impact on society. Through their coursework and personal projects, they have gained practical experience in developing intelligent algorithms, analyzing large datasets, and applying machine learning techniques to extract valuable insights.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
