@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://camo.githubusercontent.com/cd0f6999097f9c9ae946becb6a786b05424fdd43780d940453f8bca7556371db/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333303931352f73637265656e73686f74732f333538373030302f31305f636f64696e675f6472696262626c652e676966" width="389"/>
+  <img src="https://camo.githubusercontent.com/cd0f6999097f9c9ae946becb6a786b05424fdd43780d940453f8bca7556371db/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333303931352f73637265656e73686f74732f333538373030302f31305f636f64696e675f6472696262626c652e676966" width="365"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/alex-haozheng/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
