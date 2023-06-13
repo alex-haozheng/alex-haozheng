@@ -11,16 +11,17 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <h1>
-  Hi, I'm <a href="https://github.com/alex-haozheng">Alex Zheng</a>
+  Hey there, I'm <a href="https://github.com/alex-haozheng">Alex Zheng</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   </div>
 </div>
 
 ### :man_technologist: About Me :
-Alex Zheng is a dedicated computer science professional currently pursuing a Master's degree in <a href="https://www.cics.umass.edu/" target="_blank">Manning College of Information & Computer Science</a>. With a strong foundation in computer science acquired during their undergraduate studies at UMass, they have developed a passion for exploring advanced concepts and pushing the boundaries of technological innovation.
+Alex Zheng is a dedicated Computer Science professional currently pursuing a Master's degree in <a href="https://www.cics.umass.edu/" target="_blank">Manning College of Information & Computer Science</a>. With a strong foundation in computer science acquired during their undergraduate studies at UMass, they have developed a passion for exploring advanced concepts and pushing the boundaries of technological innovation.
 <br/><br/>
 Alex received his B.S. in computer science from the <a href="https://www.cics.umass.edu/" target="_blank">Manning College of Information & Computer Science</a> and his minor in mathematics from the <a href="https://www.umass.edu/mathematics-statistics/" target="_blank">Department of Mathematics and Statistics</a> at <a href="https://www.umass.edu/" target="_blank">University of Massachusetts Amherst</a>. This rigorous program equipped them with a comprehensive understanding of fundamental computer science principles, programming languages, algorithms, and data structures. Their time at UMass not only fostered technical expertise but also honed their analytical thinking, problem-solving skills, and ability to work effectively both independently and as part of a team.
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
