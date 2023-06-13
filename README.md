@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/yunfei-luo/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://yunfeiluo.github.io/">
+  <a href="https://github.com/alex-haozheng">
     <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"/>
   </a>
   <a href="mailto: yunfeiluo@umass.edu">
@@ -14,16 +14,16 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <h1>
-  Hi, I'm <a href="https://yunfeiluo.github.io/">Yunfei Luo</a>
+  Hi, I'm <a href="https://github.com/alex-haozheng">Alex Zheng</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   </div>
 </div>
 
 ### :man_technologist: About Me :
-Yunfei Luo is a Ph.D. student (incoming class of Fall 2023) in the <a href="https://datascience.ucsd.edu/" target="_blank">Halıcıoğlu Data Science Institute</a> at the <a href="https://ucsd.edu/" target="_blank">University of California San Diego</a>, supervised/advised by <a href="https://www.tauhidurrahman.com/" target="_blank">Prof. Tauhidur Rahman</a>. His research focuses on applied machine learning, multimodal learning, and multitask learning, along with applications in digital health, computer vision, signal processing, and human-computer interaction. 
+Hi
 <br/><br/>
-Yunfei received his dual B.S. and M.S. in computer science from the <a href="https://www.cics.umass.edu/" target="_blank">Manning College of Information & Computer Science</a> and his B.S. in mathematics from the <a href="https://www.umass.edu/mathematics-statistics/" target="_blank">Department of Mathematics and Statistics</a> at <a href="https://www.umass.edu/" target="_blank">University of Massachusetts Amherst</a>. At UMass Amherst, he was working on digital healthcare machine learning research in <a href="https://groups.cs.umass.edu/infofusion/" target="_blank">InfoFusion Lab</a>, supervised/advised by <a href="https://www.cics.umass.edu/people/fiterau-brostean-ina" target="_blank">Prof. Madalina Fiterau</a>. He was also working on satellite imagery based computer vision research in <a href="https://ds.cs.umass.edu/" target="_blank">Center for Data Science</a>, supervised by <a href="https://people.cs.umass.edu/~smaji/" target="_blank">Prof. Subhransu Maji</a>. 
+Alex received his B.S. in computer science from the <a href="https://www.cics.umass.edu/" target="_blank">Manning College of Information & Computer Science</a> and his B.S. in mathematics from the <a href="https://www.umass.edu/mathematics-statistics/" target="_blank">Department of Mathematics and Statistics</a> at <a href="https://www.umass.edu/" target="_blank">University of Massachusetts Amherst</a>. At UMass Amherst, he was working on digital healthcare machine learning research in <a href="https://groups.cs.umass.edu/infofusion/" target="_blank">InfoFusion Lab</a>, supervised/advised by <a href="https://www.cics.umass.edu/people/fiterau-brostean-ina" target="_blank">Prof. Madalina Fiterau</a>. He was also working on satellite imagery based computer vision research in <a href="https://ds.cs.umass.edu/" target="_blank">Center for Data Science</a>, supervised by <a href="https://people.cs.umass.edu/~smaji/" target="_blank">Prof. Subhransu Maji</a>. 
 
 ---
 
