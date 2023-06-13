@@ -1,17 +1,14 @@
 <div id="header" align="center">
   <img src="https://camo.githubusercontent.com/cd0f6999097f9c9ae946becb6a786b05424fdd43780d940453f8bca7556371db/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333303931352f73637265656e73686f74732f333538373030302f31305f636f64696e675f6472696262626c652e676966" width="389"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/yunfei-luo/">
+  <a href="https://www.linkedin.com/in/alex-haozheng/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/alex-haozheng">
     <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"/>
   </a>
-  <a href="mailto: yunfeiluo@umass.edu">
+  <a href="mailto: azheng@umass.edu">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://twitter.com/yunfei_luo">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <h1>
   Hi, I'm <a href="https://github.com/alex-haozheng">Alex Zheng</a>
