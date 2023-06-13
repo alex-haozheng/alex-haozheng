@@ -44,5 +44,5 @@ Alex received his B.S. in computer science from the <a href="https://www.cics.um
 ---
 
 ### :fire: My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunfeiluo&show_icons=true&theme=dark&card_width=495)  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yunfeiluo&theme=blueberry&mode=weekly)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-haozheng&show_icons=true&theme=dark&card_width=495)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alex-haozheng&theme=blueberry&mode=weekly)](https://git.io/streak-stats)
