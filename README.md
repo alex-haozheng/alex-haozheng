@@ -11,24 +11,24 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <h1>
-  Hi, I'm <a href="https://github.com/alex-haozheng">Alex Zheng</a>
+  Hey there, I'm <a href="https://github.com/alex-haozheng">Alex Zheng</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   </div>
 </div>
 
 ### :man_technologist: About Me :
-Hi
+Alex Zheng is a dedicated computer science professional currently pursuing a master's degree in Computer Science at UMass Amherst. With a strong foundation in computer science acquired during their undergraduate studies at UMass, they have developed a passion for exploring advanced concepts and pushing the boundaries of technological innovation.
 <br/><br/>
-Alex received his B.S. in computer science from the <a href="https://www.cics.umass.edu/" target="_blank">Manning College of Information & Computer Science</a> and his B.S. in mathematics from the <a href="https://www.umass.edu/mathematics-statistics/" target="_blank">Department of Mathematics and Statistics</a> at <a href="https://www.umass.edu/" target="_blank">University of Massachusetts Amherst</a>. At UMass Amherst, he was working on digital healthcare machine learning research in <a href="https://groups.cs.umass.edu/infofusion/" target="_blank">InfoFusion Lab</a>, supervised/advised by <a href="https://www.cics.umass.edu/people/fiterau-brostean-ina" target="_blank">Prof. Madalina Fiterau</a>. He was also working on satellite imagery based computer vision research in <a href="https://ds.cs.umass.edu/" target="_blank">Center for Data Science</a>, supervised by <a href="https://people.cs.umass.edu/~smaji/" target="_blank">Prof. Subhransu Maji</a>. 
-
+Alex received his B.S. in computer science from the <a href="https://www.cics.umass.edu/" target="_blank">Manning College of Information & Computer Science</a> and his minor in mathematics from the <a href="https://www.umass.edu/mathematics-statistics/" target="_blank">Department of Mathematics and Statistics</a> at <a href="https://www.umass.edu/" target="_blank">University of Massachusetts Amherst</a>. This rigorous program equipped them with a comprehensive understanding of fundamental computer science principles, programming languages, algorithms, and data structures. Their time at UMass not only fostered technical expertise but also honed their analytical thinking, problem-solving skills, and ability to work effectively both independently and as part of a team.
+<br/><br/>
+While Alex Zheng possesses a broad understanding of computer science, their specific areas of interest lie in artificial intelligence, machine learning, and data science. They are fascinated by the potential of these fields to revolutionize industries, solve complex problems, and make a positive impact on society. Through their coursework and personal projects, they have gained practical experience in developing intelligent algorithms, analyzing large datasets, and applying machine learning techniques to extract valuable insights.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTex" alt="LaTex" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" title="NetworkX" alt="NetworkX" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
