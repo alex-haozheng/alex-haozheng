@@ -22,7 +22,7 @@ Alex Zheng is a dedicated Computer Science professional currently pursuing a Mas
 <br/><br/>
 Alex received his B.S. in computer science from the <a href="https://www.cics.umass.edu/" target="_blank">Manning College of Information & Computer Science</a> and his minor in mathematics from the <a href="https://www.umass.edu/mathematics-statistics/" target="_blank">Department of Mathematics and Statistics</a> at <a href="https://www.umass.edu/" target="_blank">University of Massachusetts Amherst</a>. 
 
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=alex-haozheng&repo=alex-CV)](https://github.com/alex-haozheng/alex-CV)
+[CV](https://github.com/alex-haozheng/alex-CV)
 
 ---
 
