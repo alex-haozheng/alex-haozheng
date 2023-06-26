@@ -20,7 +20,9 @@
 ### :man_technologist: About Me :
 Alex Zheng is a dedicated Computer Science professional currently pursuing a Master's degree in <a href="https://www.cics.umass.edu/" target="_blank">Manning College of Information & Computer Science</a>. With a strong foundation in computer science acquired during their undergraduate studies at UMass, they have developed a passion for exploring advanced concepts and pushing the boundaries of technological innovation.
 <br/><br/>
-Alex received his B.S. in computer science from the <a href="https://www.cics.umass.edu/" target="_blank">Manning College of Information & Computer Science</a> and his minor in mathematics from the <a href="https://www.umass.edu/mathematics-statistics/" target="_blank">Department of Mathematics and Statistics</a> at <a href="https://www.umass.edu/" target="_blank">University of Massachusetts Amherst</a>. This rigorous program equipped them with a comprehensive understanding of fundamental computer science principles, programming languages, algorithms, and data structures. Their time at UMass not only fostered technical expertise but also honed their analytical thinking, problem-solving skills, and ability to work effectively both independently and as part of a team.
+Alex received his B.S. in computer science from the <a href="https://www.cics.umass.edu/" target="_blank">Manning College of Information & Computer Science</a> and his minor in mathematics from the <a href="https://www.umass.edu/mathematics-statistics/" target="_blank">Department of Mathematics and Statistics</a> at <a href="https://www.umass.edu/" target="_blank">University of Massachusetts Amherst</a>. 
+
+[CV](https://github.com/alex-haozheng/alex-CV)
 
 ---
 
