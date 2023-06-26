@@ -24,7 +24,7 @@ Alex received his B.S. in computer science from the <a href="https://www.cics.um
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Tools and Stats :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
@@ -37,8 +37,5 @@ Alex received his B.S. in computer science from the <a href="https://www.cics.um
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 
----
-
-### :fire: My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-haozheng&show_icons=true&theme=dark&card_width=495)  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alex-haozheng&theme=blueberry&mode=weekly)](https://git.io/streak-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
