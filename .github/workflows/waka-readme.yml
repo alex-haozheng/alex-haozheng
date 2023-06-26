@@ -16,6 +16,7 @@ jobs:
           # following flags are required, only if this is not on
           # profile readme, remove the leading `#` to use them
           SHOW_TITLE: true
+          TIME_RANGE: all_time
           # SECTION_NAME: Statistics
           # CODE_LANG: python
           #GH_TOKEN: ${{ secrets.GH_TOKEN }}
