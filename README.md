@@ -41,7 +41,7 @@ Alex received his B.S. in computer science from the <a href="https://www.cics.um
 
 --- 
 
-### Statistics: 
+### :bar_chart: Statistics: 
 <!--START_SECTION:waka-->
 
 ```txt
