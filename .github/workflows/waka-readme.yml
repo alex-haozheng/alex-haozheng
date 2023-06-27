@@ -17,6 +17,7 @@ jobs:
           # profile readme, remove the leading `#` to use them
           SHOW_TITLE: true
           TIME_RANGE: all_time
+          SHOW_TIME: true
           # SECTION_NAME: Statistics
           # CODE_LANG: python
           #GH_TOKEN: ${{ secrets.GH_TOKEN }}
