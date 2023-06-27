@@ -47,11 +47,11 @@ Alex received his B.S. in computer science from the <a href="https://www.cics.um
 ```txt
 From: 26 June 2023 - To: 27 June 2023
 
-Markdown   23 mins         █████████████▒░░░░░░░░░░░   53.90 %
-YAML       13 mins         ████████░░░░░░░░░░░░░░░░░   31.99 %
-INI        2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-HTML       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-JSON       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Markdown   23 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.90 %
+YAML       13 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.99 %
+INI        2 mins          ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.94 %
+HTML       1 min           ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.41 %
+JSON       0 secs          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.00 %
 ```
 
 <!--END_SECTION:waka-->
