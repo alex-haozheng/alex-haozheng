@@ -20,5 +20,5 @@ jobs:
           SHOW_TIME: true
           # SECTION_NAME: Statistics
           # CODE_LANG: python
-          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           #REPOSITORY: <gh_username/gh_username>
