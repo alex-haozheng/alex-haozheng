@@ -47,6 +47,9 @@ Alex received his B.S. in computer science from the <a href="https://www.cics.um
 
 ### :bar_chart: Statistics: 
 <!--START_SECTION:waka-->
+<a href="https://github.com/alex-haozheng/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=alex-haozheng&style=for-the-badge">
+</a>
 
 ```txt
 From: 26 June 2023 - To: 03 March 2025
