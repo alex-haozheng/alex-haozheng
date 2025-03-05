@@ -18,11 +18,9 @@
 </div>
 
 ### :man_technologist: About Me :
-Alex Zheng is a dedicated Computer Science professional currently pursuing a Master's degree in <a href="https://www.cics.umass.edu/" target="_blank">Manning College of Information & Computer Science</a>. With a strong foundation in computer science acquired during their undergraduate studies at UMass, they have developed a passion for exploring advanced concepts and pushing the boundaries of technological innovation.
-<br/><br/>
-Alex received his B.S. in computer science from the <a href="https://www.cics.umass.edu/" target="_blank">Manning College of Information & Computer Science</a> and his minor in mathematics from the <a href="https://www.umass.edu/mathematics-statistics/" target="_blank">Department of Mathematics and Statistics</a> at <a href="https://www.umass.edu/" target="_blank">University of Massachusetts Amherst</a>. 
+I'm currently pursuing a Master's degree in <a href="https://www.cics.umass.edu/" target="_blank">Manning College of Information & Computer Science</a> in Computer Science expected to graduate May 2025. 
 
-[CV](https://github.com/alex-haozheng/alex-CV)
+I'm actively seeking job opportunities, ideally in MA, but I'm open to other locations across the U.S. Feel free to reach out if you know of a good fit!
 
 ---
 
@@ -47,9 +45,6 @@ Alex received his B.S. in computer science from the <a href="https://www.cics.um
 
 ### :bar_chart: Statistics: 
 <!--START_SECTION:waka-->
-<a href="https://github.com/alex-haozheng/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=alex-haozheng&style=for-the-badge">
-</a>
 
 ```txt
 From: 26 June 2023 - To: 03 March 2025
@@ -62,3 +57,6 @@ HTML           21 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+<a href="https://github.com/alex-haozheng/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=alex-haozheng&color=blueviolet&label=Visitors&abbreviated=true">
+</a>
