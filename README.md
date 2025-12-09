@@ -47,7 +47,7 @@ I'm actively seeking job opportunities, ideally in MA, but I'm open to other loc
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 June 2023 - To: 06 December 2025
+From: 26 June 2023 - To: 07 December 2025
 
 Markdown       2 hrs 19 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.58 %
 Python         1 hr 54 mins    ⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.05 %
