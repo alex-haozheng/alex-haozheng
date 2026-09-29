@@ -18,7 +18,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I'm currently pursuing a Master's degree in <a href="https://www.cics.umass.edu/" target="_blank">Manning College of Information & Computer Science</a> in Computer Science expected to graduate May 2025. 
+I graduated from <a href="https://www.cics.umass.edu/" target="_blank">Manning College of Information & Computer Science</a> with a Masters in Computer Science in May 2025. 
 
 I'm actively seeking job opportunities, ideally in MA, but I'm open to other locations across the U.S. Feel free to reach out if you know of a good fit!
 
